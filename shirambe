@@ -1,0 +1,9 @@
+<!doctype html>
+<html> 
+  <head> 
+  .ClassA { color: green }
+  </head> 
+  <body style='background-color: blue'>
+  <div hopefully this works </div>
+  </body>
+</html> 
